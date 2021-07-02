@@ -7,7 +7,7 @@
   - Mongo & MySQL, I'm not deprecated SQL & Oracle
 - 🌱 I’m currently learning Python focused to Machine Learning
 - 💞️ I’m looking to collaborate on NodeJS projects
-- 📫 How to reach me?  On RRSS as @responsivecodex, telegram, twitter, wordpress, livejournal, instagram, codepen, reddit & others...
+- 📫 How to reach me?  On RRSS as @responsivecodex:  @gmail, telegram, twitter, wordpress, livejournal, instagram, codepen, reddit & others...
 
 <!---
 responsivecodex/responsivecodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
